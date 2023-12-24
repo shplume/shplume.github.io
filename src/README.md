@@ -1,14 +1,14 @@
 ---
 home: true
-icon: home
-title: 项目主页
+icon: flat-color-icons:home
+title: 首页
 heroImage: /logo.svg
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
+bgImage: /assets/image/home.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
+heroText: Shplume
+tagline: It pays to be obvious, especially if you have a reputation for subtlety.
 actions:
   - text: 使用指南
     icon: lightbulb
@@ -19,9 +19,9 @@ actions:
     link: ./guide/
 
 highlights:
-  - header: 易于安装
+  - header: Go
     image: /assets/image/box.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
+    bgImage: /assets/image/home-go.png
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
       - title: 运行 <code>pnpm create vuepress-theme-hope hope-project</code> 以创建一个新的主题项目。
@@ -265,7 +265,7 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-present Mr.Hope
+footer: Copyright © 2023 张隽丹  友链：<a href="https://zhangbokai614.github.io/" target="_blank">zhangbokai's blog</a>
 ---
 
 这是项目主页的案例。你可以在这里放置你的主体内容。

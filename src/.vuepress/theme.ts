@@ -7,7 +7,7 @@ export default hopeTheme({
 
   author: {
     name: "shplume",
-    url: "https://mister-hope.com",
+    url: "https://github.com/shplume",
   },
 
   iconAssets: "iconify",
@@ -27,6 +27,8 @@ export default hopeTheme({
   footer: "默认页脚",
 
   displayFooter: true,
+
+  darkmode: "disable",
 
   encrypt: {
     config: {

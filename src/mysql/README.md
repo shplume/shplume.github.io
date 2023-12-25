@@ -1,7 +1,7 @@
 ---
-title: Mysql
+title: MySQL
 index: false
-icon: logos:mysql
+icon: logos:MySQL
 category:
   - 使用指南
 ---

@@ -6,7 +6,7 @@ export default navbar([
   "/go/",
   "/javascript/",
   "/redis/",
-  "/mysql/",
+  "/MySQL/",
   {
     text: "语雀",
     icon: "ri:yuque-fill",

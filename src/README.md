@@ -34,27 +34,27 @@ highlights:
       background-size: 100% 100%
     features:
       - title: Go
-        icon: clipboard-check
+        icon: skill-icons:golang
         details: todo
         link: todo
 
       - title: Javascript
-        icon: box-archive
+        icon: tabler:brand-javascript
         details: todo
         link: todo
 
       - title: C++
-        icon: code
+        icon: devicon:c
         details: todo
         link: todo
 
       - title: Redis
-        icon: bell
+        icon: skill-icons:redis-dark
         details: todo
         link: todo
 
       - title: MySQL
-        icon: table-columns
+        icon: devicon:mysql-wordmark
         details: todo
         link: todo
 

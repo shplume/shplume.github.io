@@ -35,28 +35,28 @@ highlights:
     features:
       - title: Go
         icon: skill-icons:golang
-        details: todo
-        link: todo
+        details: Go 语言学习
+        link: https://www.yuque.com/shplume/golang
 
       - title: Javascript
         icon: tabler:brand-javascript
-        details: todo
-        link: todo
+        details: JS & NodeJS
+        link: https://www.yuque.com/shplume/rysrv2
 
-      - title: C++
+      - title: C/C++
         icon: devicon:c
-        details: todo
-        link: todo
+        details: C 语言教程
+        link: https://www.yuque.com/shplume/nmrmt3/zy6wlvfmnzf9c54n
 
       - title: Redis
         icon: skill-icons:redis-dark
-        details: todo
-        link: todo
+        details: 键值存储数据库
+        link: https://www.yuque.com/shplume/redis
 
       - title: MySQL
         icon: devicon:mysql-wordmark
-        details: todo
-        link: todo
+        details: 关系型数据库
+        link: https://www.yuque.com/shplume/mysql
 
   - header: 新功能
     image: /assets/image/features.svg

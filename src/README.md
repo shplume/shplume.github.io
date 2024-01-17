@@ -9,7 +9,7 @@ bgImageStyle:
   background-attachment: fixed
 heroText: Shplume
 heroFullScreen: true
-tagline: It pays to be obvious, especially if you have a reputation for subtlety.
+tagline: 种一棵树最好的时间是十年前，其次是现在
 actions:
   - text: Github
     icon: mdi:github

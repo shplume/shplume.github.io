@@ -58,6 +58,11 @@ highlights:
         details: 关系型数据库
         link: https://www.yuque.com/shplume/mysql
 
+      - title: 嵌入式开发
+        icon: devicon-plain:embeddedc-wordmark
+        details: RT Thread 实时操作系统
+        link: https://www.yuque.com/shplume/embedded
+
   - header: 新功能
     image: /assets/image/features.svg
     bgImage: /assets/image/home-bottom.jpg
